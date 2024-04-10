@@ -1,0 +1,11 @@
+.cardOuter {
+  /* border: 1px solid gray; */
+  padding: 10px;
+}
+
+.cardEmail {
+  color: rgb(172, 168, 168);
+}
+.img {
+  width: 100%;
+}
